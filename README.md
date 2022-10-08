@@ -52,3 +52,7 @@ This command is used to push the docker image locally build into docker hub.
 
 Below is the docker image locally build and uploaded in docker hub.
 https://hub.docker.com/repository/docker/shalinitiwari2701/dockerbasics
+
+Output of the fastAPI
+![image](https://user-images.githubusercontent.com/114802910/194710976-83b0ffdc-352c-4af4-9841-f0eb05e67bc3.png)
+
