@@ -14,8 +14,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Build and Psushing the Docker image
+    - name: Build and Pushing the Docker image
       run: |
-         docker login --username "shalinitiwari2701" --password-stdin
+         echo "${{ secrets.DOCKERKEY}}" | docker login --username "shalinitiwari2701" --password-stdin
          docker build -t shalinitiwari2701/dockerimage .
          docker push shalinitiwari2701/dockerimage:latest
