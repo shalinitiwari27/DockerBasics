@@ -10,7 +10,7 @@
    ![image](https://user-images.githubusercontent.com/114802910/194708808-1cb56f28-2731-411b-8cfa-203e072a1d9e.png)
 
 
-**3. docker pull <image name>**
+**3. docker pull image name**
   
   This command pulls the docker image from docker hub in the local system
   ![image](https://user-images.githubusercontent.com/114802910/194709248-068fb039-703a-4653-ac05-a76ae3f412c7.png)
@@ -22,7 +22,7 @@
   ![image](https://user-images.githubusercontent.com/114802910/194709276-64db7e64-f109-4311-b3b4-056ab539f60a.png)
 
 
-**5. docker run -d -p 80:80 <image name>**
+**5. docker run -d -p 80:80 image name**
   
   This command is used to run the docker image. When we run a docker image, a container is created inside which this image runs.
   ![image](https://user-images.githubusercontent.com/114802910/194709982-f44da00c-4883-4403-9510-691a58d2a599.png)
@@ -32,12 +32,12 @@
   This command shows the status of all running containers only.
   ![image](https://user-images.githubusercontent.com/114802910/194710106-ed90eb1c-bfc7-4da5-92cb-2df8c7085aa7.png)
 
-**7. docker stop <containerid>**
+**7. docker stop containerid**
   
   This command is used to stop a container. But the image still exists as we haven't deleted docker image from local system yet.
   ![image](https://user-images.githubusercontent.com/114802910/194710148-46048cdd-8771-4b54-b4c5-576266c691e4.png)
 
-**8. docker image rm -f <imageid>**
+**8. docker image rm -f imageid**
   
   This command is used to forcefully remove a image from local.
   ![image](https://user-images.githubusercontent.com/114802910/194710385-0e8fa6ca-9b3e-4758-8cb9-c79410375ff4.png)
