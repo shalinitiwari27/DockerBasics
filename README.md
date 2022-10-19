@@ -71,15 +71,15 @@
    ![image](https://user-images.githubusercontent.com/114802910/194711485-20904cbe-6ff9-456a-8334-3c5ee2f5e0b3.png) 
 
   
-**13. docker ps -a**
+**13. docker ps -a**    This command lists all the containers(running + exited)
+![image](https://user-images.githubusercontent.com/57611888/196732713-a6ac6a1a-341b-4f28-b7e2-0ce3b4fd0c4f.png)
+
+
   
-    This command lists all the containers(running + exited)
-    ![image](https://user-images.githubusercontent.com/114802910/194711550-c6f473fe-d03e-493b-afd2-044ca8a73341.png)
-  
-**14. docker top <containerid>**
-  
-    This command shows the list of processes running inside a container
-    ![image](https://user-images.githubusercontent.com/114802910/194711637-c98fd37d-4e71-46b5-b88d-8d5f862f88c6.png)
+**14. docker top <containerid>**    This command shows the list of processes running inside a container
+![image](https://user-images.githubusercontent.com/57611888/196732624-dd1d0639-ffd8-406e-8a5a-6d1a5291e3b1.png)
+
+
   
 **15. docker inspect <imageid>**
   
