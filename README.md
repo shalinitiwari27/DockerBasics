@@ -50,11 +50,14 @@
   ![image](https://user-images.githubusercontent.com/114802910/194710518-532cfa52-ddb4-4d81-8bdd-f43e115194bc.png)
 
 **10. docker build -t username/dockername .**
-
     This command is used to build the docker image. We try to create the name using username and then the image name user want.
-    ![image](https://user-images.githubusercontent.com/114802910/194710672-0eec5df5-34cf-4e83-9075-bf439f5e7fd3.png)
+    ![image](https://user-images.githubusercontent.com/57611888/196731542-f9983eb8-da34-4d99-9331-61d2c35f6ea3.png)
 
-    ![image](https://user-images.githubusercontent.com/114802910/194710680-b246b202-adf6-499a-abbf-e2ac28cbacf0.png)
+![image](https://user-images.githubusercontent.com/57611888/196731691-48113d45-6d0a-4988-8708-8cd6a02e682e.png)
+
+
+   
+
 
 
 **11. docker push username/dockername:latest**
