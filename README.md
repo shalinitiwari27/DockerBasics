@@ -6,7 +6,7 @@
 
 2. **docker -v**
 
-   Gives the latest installest docker version in your machine.
+   Gives the latest installed docker version in your machine.
    ![image](https://user-images.githubusercontent.com/114802910/194708808-1cb56f28-2731-411b-8cfa-203e072a1d9e.png)
 
 
