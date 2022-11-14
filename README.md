@@ -65,7 +65,7 @@
   This command is used to push the docker image locally build into docker hub.
   ![image](https://user-images.githubusercontent.com/114802910/194710727-aa333564-e9a9-4517-abac-29478bd01302.png)
   
- **12. docker restart <container id>**
+ **12. docker restart container id**
   
     This command first stops the container and then automatically start it back.
    ![image](https://user-images.githubusercontent.com/114802910/194711485-20904cbe-6ff9-456a-8334-3c5ee2f5e0b3.png) 
@@ -86,6 +86,9 @@
   This command shows the low level info of the image
   ![image](https://user-images.githubusercontent.com/114802910/194711726-5d3bb0c1-f82c-4590-97e0-5be02c387005.png)
 
+16. docker rm containerid
+
+This command removes the container
 
 
   
